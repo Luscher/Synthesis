@@ -1,4 +1,4 @@
 Synthesis
 =========
 
-A 3D space RPG exploration Game.
+A 3D exploration game.
